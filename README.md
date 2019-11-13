@@ -1,7 +1,7 @@
 # Code Institute
 
-Welcome ashur-k,
+##Files and links are used from Wiki and following webs:
+##https://www.stockio.com/free-icon/heroku
+##https://github.com/vscode-icons/vscode-icons/issues/1837
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+##and special thanks to font awsome.com for providing free SVGs
